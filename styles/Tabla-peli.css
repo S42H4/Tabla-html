@@ -1,0 +1,28 @@
+table{
+    width:45%;
+    text-align: center;
+    border: solid 1px black;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+td,th{
+    border:solid 1px black;
+}
+thead{
+    background-color:  rgb(80 80 80 / 26%);
+    color: black;
+    
+}
+tfoot{
+    background-color: rgb(80 80 80 / 26%);
+    font-weight: bold;
+}
+tr{
+    height: 45px;
+    font-size: large;
+}
+caption{
+    height: 35px;
+    font-size: x-large;
+}
